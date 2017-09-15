@@ -1,0 +1,2 @@
+# blogs
+my travel blogs
